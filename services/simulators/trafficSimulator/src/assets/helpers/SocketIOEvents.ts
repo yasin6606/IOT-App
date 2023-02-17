@@ -1,0 +1,1 @@
+export const FAKE_DATA_EVENT: string = "fake_data_event";
